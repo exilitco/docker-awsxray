@@ -1,4 +1,4 @@
-ROM debian:stable-slim
+FROM debian:stable-slim
 
 ENV AWS_ACCESS_KEY_ID=
 ENV AWS_SECRET_ACCESS_KEY=
